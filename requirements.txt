@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-ollama
+chromadb
+sentence-transformers
+pypdf
+docx2txt
+huggingface-hub
